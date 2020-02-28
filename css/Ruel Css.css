@@ -1,22 +1,13 @@
-/* General Styling */
-*{
-    margin : 0;
-    padding : 0;
-    box-sizing : border-box;
-}
 body {
-    font-family: Calibri;
-    line-height : 1.4;
-    color: #333;
-    overflow-x; hidden;
-}
-
-/* Utility Classes*/
-.container {
-    max-width: 1100 px;
-    margin: auto;
-}
-
-.text-primary{
-    color
-}
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
